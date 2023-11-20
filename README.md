@@ -12,3 +12,6 @@ Na przykład - masz na imię: Mirosław - wówczas Twój program powinien wypisa
 - Film szkoleniowy: https://miroslawzelent.pl/informatyka/programowanie-brainfuck-challenge/
 - Kompilator języka Brainfuck - Brainfuck Machine: https://miroslawzelent.pl/pliki/BrainfuckMachine.zip
 - Wikipedia: https://pl.wikipedia.org/wiki/Brainfuck
+
+++++++++[>+++++++++<-]>++.
+<++++++++++++[>>++++++++<<-]>>+.<<++[>>++++++++++.<<-]<<++++++++++++[>>++++++++<<-]>>++.
